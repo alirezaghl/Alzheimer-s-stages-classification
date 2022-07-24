@@ -1,3 +1,4 @@
+# Transfer learning for early detection of Dementia!
 The project is about classifying four stages of Dementia.\
 All classes are labeld.
 During the project, we encountered two problems.
